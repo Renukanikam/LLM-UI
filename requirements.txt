@@ -1,0 +1,7 @@
+flask
+transformers
+datasets
+diffusers
+torch
+sentence-transformers
+Pillow
